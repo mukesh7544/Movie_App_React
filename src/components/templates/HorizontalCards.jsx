@@ -27,7 +27,7 @@ const HorizontalCards = ({data}) => {
             </p>
             </div>
          </Link>
-         )): <h1 className="text-3xl mt-5 font-black text-center">Nothing  to show</h1>}
+         )): <h1 className="text-3xl mt-5 font-black text-center">Nothing  to shows</h1>}
       </div>
   );
 };
